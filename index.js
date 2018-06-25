@@ -1,2 +1,2 @@
  var recipes = { prop: 1}
-  recipes.assign(obj, {key3: "value3"});
+  recipes.assign(obj, { 'prop2', 2});
