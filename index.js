@@ -1,3 +1,3 @@
  var recipes = { prop: 1}
- function  updateObjectWithKeyAndValue(obj, 'prop2', 2)
+ function  updateObjectWithKeyAndValue(recipes, 'prop2', 2)
  }
