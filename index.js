@@ -1,1 +1,1 @@
- const recipes = { prop: 1}
+ var recipes = { prop: 1}
