@@ -1,7 +1,10 @@
  var recipes = { prop: 1}
- function  updateObjectWithKeyAndValue(recipes, 'prop2', 2){
+ 
+ function updateObjectWithKeyAndValue(object, key, value){
+  return Object.assign({}, obj, {[key]: value})
+}
 
 
-  
+
 
  }
